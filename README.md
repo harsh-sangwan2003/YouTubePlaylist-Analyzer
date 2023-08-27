@@ -25,7 +25,7 @@ npm install dependencies
 
 ## Usage
 
-The project is a Nodejs script that can be run from the command line.
+This project scrapes the data(playlist) from youtube and collect them in a pdf file.
 Type 
 
 ```js
