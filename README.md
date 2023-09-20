@@ -1,4 +1,4 @@
-# YouTube Playlist Analyser
+# YouTube Playlist Analyzer
 
 A quick guide to my Project ->
 
