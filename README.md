@@ -9,6 +9,7 @@ A quick guide to my Project ->
 - NodeJs
 - JavaScript
 - Puppeteer
+- pdfkit
 
 ## Requirements
 
