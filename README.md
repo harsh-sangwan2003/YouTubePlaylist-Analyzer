@@ -1,4 +1,4 @@
-# HackerRank Automation
+# YouTube Playlist Analyser
 
 A quick guide to my Project ->
 
@@ -40,6 +40,3 @@ to run the script
 
 
 https://github.com/harsh-sangwan2003/YouTubePlaylist-Analyzer/assets/84121947/c3b4725f-8340-46db-bb44-99e9fbcecfe6.mp4
-
-
-
