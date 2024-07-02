@@ -2,7 +2,7 @@
 
 A quick guide to my Project ->
 
-<img src ="/image.webp">
+https://github.com/harsh-sangwan2003/YouTubePlaylist-Analyzer/assets/84121947/c3b4725f-8340-46db-bb44-99e9fbcecfe6.mp4
 
 ## Tools Used
 
@@ -34,10 +34,4 @@ node main.js
 ``` 
 to run the script
 
-## Demo Video
-
-- [Link](https://app.gemoo.com/share/home?codeId=v69l8YJzajRLl)
-
-
-
-https://github.com/harsh-sangwan2003/YouTubePlaylist-Analyzer/assets/84121947/c3b4725f-8340-46db-bb44-99e9fbcecfe6.mp4
+<img src ="/image.webp">
