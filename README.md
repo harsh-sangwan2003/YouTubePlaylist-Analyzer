@@ -27,7 +27,8 @@ npm install dependencies
 ## Usage
 
 This project scrapes the data(playlist) from youtube and collect them in a pdf file.
-Type 
+
+## Type 
 
 ```js
 node main.js
